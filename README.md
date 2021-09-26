@@ -3,7 +3,7 @@ ___________________________________________
 
 Use the test_image for testing.
 
-#To use
+# To use
 
 Access fdetect.exe program in the dist folder to run it on your desktop
 
