@@ -7,4 +7,4 @@ Use the test_image for testing.
 
 Run .exe file in the dict folder.
 
-PS: To run the code in Python goto src folder.
+PS. To run the code in Python goto src folder.
